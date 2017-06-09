@@ -1,0 +1,1479 @@
+Configuration done.
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #2: 395
+find_feature(i=1) uses time : 0.0298084 sec
+Features in image #1: 469
+find_feature(i=0) uses time : 0.0307952 sec
+Finding features uses time: 0.030881 sec
+Pairwise matching, time: 0.0192485 sec
+LeaveBiggestComponent uses time: 3.36422e-005 sec
+Initial intrinsics #1:
+[264.0688823049352, 0, 163.5;
+  0, 264.0688823049352, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[264.0688823049352, 0, 163.5;
+  0, 264.0688823049352, 122.5;
+  0, 0, 1]
+estimator uses time: 7.01354e-005 sec
+Camera #1:
+[513.6631100462729, 0, 163.5;
+  0, 513.6631100462729, 122.5;
+  0, 0, 1]
+Camera #2:
+[526.6753790443221, 0, 163.5;
+  0, 526.6753790443221, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00814455 sec
+Warping images uses time: 0.00643906 sec
+compensator uses time: 0.00218389 sec
+seam_finder uses time: 0.00680856 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0487002 sec
+Finished, total time: 0.125351 sec, runtime fps: 7.97761 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 435
+find_feature(i=0) uses time : 0.019123 sec
+Features in image #2: 380
+find_feature(i=1) uses time : 0.0241771 sec
+Finding features uses time: 0.0243396 sec
+Pairwise matching, time: 0.018402 sec
+LeaveBiggestComponent uses time: 2.45189e-005 sec
+Initial intrinsics #1:
+[269.588372452046, 0, 163.5;
+  0, 269.588372452046, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[269.588372452046, 0, 163.5;
+  0, 269.588372452046, 122.5;
+  0, 0, 1]
+estimator uses time: 5.55952e-005 sec
+Camera #1:
+[4070.419399751493, 0, 163.5;
+  0, 4070.419399751493, 122.5;
+  0, 0, 1]
+Camera #2:
+[4137.73563270152, 0, 163.5;
+  0, 4137.73563270152, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.095996 sec
+Warping images uses time: 0.00632302 sec
+compensator uses time: 0.00211461 sec
+seam_finder uses time: 0.00794555 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0542067 sec
+Finished, total time: 0.211636 sec, runtime fps: 4.7251 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 421
+find_feature(i=0) uses time : 0.0157274 sec
+Features in image #2: 381
+find_feature(i=1) uses time : 0.0237639 sec
+Finding features uses time: 0.023852 sec
+Pairwise matching, time: 0.0201026 sec
+LeaveBiggestComponent uses time: 3.10763e-005 sec
+Initial intrinsics #1:
+[565.4728351538531, 0, 163.5;
+  0, 565.4728351538531, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[565.4728351538531, 0, 163.5;
+  0, 565.4728351538531, 122.5;
+  0, 0, 1]
+estimator uses time: 5.55952e-005 sec
+Camera #1:
+[5033.236520672134, 0, 163.5;
+  0, 5033.236520672134, 122.5;
+  0, 0, 1]
+Camera #2:
+[5116.6193184115, 0, 163.5;
+  0, 5116.6193184115, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0961628 sec
+Warping images uses time: 0.00853029 sec
+compensator uses time: 0.00238518 sec
+seam_finder uses time: 0.00769893 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0690769 sec
+Finished, total time: 0.230295 sec, runtime fps: 4.34226 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 428
+find_feature(i=0) uses time : 0.017212 sec
+Features in image #2: 362
+find_feature(i=1) uses time : 0.0256322 sec
+Finding features uses time: 0.0257434 sec
+Pairwise matching, time: 0.0204034 sec
+LeaveBiggestComponent uses time: 2.30934e-005 sec
+Initial intrinsics #1:
+[572, 0, 163.5;
+  0, 572, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[572, 0, 163.5;
+  0, 572, 122.5;
+  0, 0, 1]
+estimator uses time: 5.44548e-005 sec
+Camera #1:
+[4537.259662251949, 0, 163.5;
+  0, 4537.259662251949, 122.5;
+  0, 0, 1]
+Camera #2:
+[4608.304611914969, 0, 163.5;
+  0, 4608.304611914969, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0917027 sec
+Warping images uses time: 0.00864377 sec
+compensator uses time: 0.00228938 sec
+seam_finder uses time: 0.00731148 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0570349 sec
+Finished, total time: 0.215575 sec, runtime fps: 4.63875 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 426
+find_feature(i=0) uses time : 0.0176405 sec
+Features in image #2: 356
+find_feature(i=1) uses time : 0.0236884 sec
+Finding features uses time: 0.0237514 sec
+Pairwise matching, time: 0.0189688 sec
+LeaveBiggestComponent uses time: 3.36422e-005 sec
+Initial intrinsics #1:
+[273.0737577691166, 0, 163.5;
+  0, 273.0737577691166, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[273.0737577691166, 0, 163.5;
+  0, 273.0737577691166, 122.5;
+  0, 0, 1]
+estimator uses time: 5.64505e-005 sec
+Camera #1:
+[4577.546613896701, 0, 163.5;
+  0, 4577.546613896701, 122.5;
+  0, 0, 1]
+Camera #2:
+[4716.656079626716, 0, 163.5;
+  0, 4716.656079626716, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0883299 sec
+Warping images uses time: 0.00689323 sec
+compensator uses time: 0.00216679 sec
+seam_finder uses time: 0.00762623 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0601426 sec
+Finished, total time: 0.210383 sec, runtime fps: 4.75324 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 435
+find_feature(i=0) uses time : 0.0175857 sec
+Features in image #2: 352
+find_feature(i=1) uses time : 0.0234272 sec
+Finding features uses time: 0.0235193 sec
+Pairwise matching, time: 0.0163444 sec
+LeaveBiggestComponent uses time: 2.13828e-005 sec
+Initial intrinsics #1:
+[466.1333257785177, 0, 163.5;
+  0, 466.1333257785177, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[466.1333257785177, 0, 163.5;
+  0, 466.1333257785177, 122.5;
+  0, 0, 1]
+estimator uses time: 5.87313e-005 sec
+Camera #1:
+[4653.905808860519, 0, 163.5;
+  0, 4653.905808860519, 122.5;
+  0, 0, 1]
+Camera #2:
+[4656.564986973343, 0, 163.5;
+  0, 4656.564986973343, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0883818 sec
+Warping images uses time: 0.00730207 sec
+compensator uses time: 0.00216679 sec
+seam_finder uses time: 0.00770806 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0618127 sec
+Finished, total time: 0.209657 sec, runtime fps: 4.7697 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 430
+find_feature(i=0) uses time : 0.0203989 sec
+Features in image #2: 351
+find_feature(i=1) uses time : 0.023537 sec
+Finding features uses time: 0.0236108 sec
+Pairwise matching, time: 0.0201192 sec
+LeaveBiggestComponent uses time: 2.10977e-005 sec
+Initial intrinsics #1:
+[249.7346213357158, 0, 163.5;
+  0, 249.7346213357158, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[249.7346213357158, 0, 163.5;
+  0, 249.7346213357158, 122.5;
+  0, 0, 1]
+estimator uses time: 5.41697e-005 sec
+Camera #1:
+[4610.639808034325, 0, 163.5;
+  0, 4610.639808034325, 122.5;
+  0, 0, 1]
+Camera #2:
+[4697.228028014509, 0, 163.5;
+  0, 4697.228028014509, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0899293 sec
+Warping images uses time: 0.0064958 sec
+compensator uses time: 0.00210093 sec
+seam_finder uses time: 0.00801169 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0597548 sec
+Finished, total time: 0.21252 sec, runtime fps: 4.70545 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 429
+find_feature(i=0) uses time : 0.0150281 sec
+Features in image #2: 362
+find_feature(i=1) uses time : 0.0231584 sec
+Finding features uses time: 0.0232721 sec
+Pairwise matching, time: 0.0150614 sec
+LeaveBiggestComponent uses time: 2.30934e-005 sec
+Initial intrinsics #1:
+[518.8987245437268, 0, 163.5;
+  0, 518.8987245437268, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[518.8987245437268, 0, 163.5;
+  0, 518.8987245437268, 122.5;
+  0, 0, 1]
+estimator uses time: 5.44548e-005 sec
+Camera #1:
+[4646.06370967887, 0, 163.5;
+  0, 4646.06370967887, 122.5;
+  0, 0, 1]
+Camera #2:
+[4733.383599707842, 0, 163.5;
+  0, 4733.383599707842, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0877106 sec
+Warping images uses time: 0.00661069 sec
+compensator uses time: 0.00219302 sec
+seam_finder uses time: 0.00730406 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0609035 sec
+Finished, total time: 0.205492 sec, runtime fps: 4.86637 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 416
+find_feature(i=0) uses time : 0.0151207 sec
+Features in image #2: 361
+find_feature(i=1) uses time : 0.0240066 sec
+Finding features uses time: 0.0241229 sec
+Pairwise matching, time: 0.0196422 sec
+LeaveBiggestComponent uses time: 2.96508e-005 sec
+Initial intrinsics #1:
+[495.903924008083, 0, 163.5;
+  0, 495.903924008083, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[495.903924008083, 0, 163.5;
+  0, 495.903924008083, 122.5;
+  0, 0, 1]
+estimator uses time: 5.44548e-005 sec
+Camera #1:
+[4762.073359333228, 0, 163.5;
+  0, 4762.073359333228, 122.5;
+  0, 0, 1]
+Camera #2:
+[4864.115460976544, 0, 163.5;
+  0, 4864.115460976544, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0859969 sec
+Warping images uses time: 0.00685132 sec
+compensator uses time: 0.00223835 sec
+seam_finder uses time: 0.0077608 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0563162 sec
+Finished, total time: 0.20523 sec, runtime fps: 4.87259 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 436
+find_feature(i=0) uses time : 0.0185751 sec
+Features in image #2: 354
+find_feature(i=1) uses time : 0.0232405 sec
+Finding features uses time: 0.0233588 sec
+Pairwise matching, time: 0.0231618 sec
+LeaveBiggestComponent uses time: 2.28083e-005 sec
+Initial intrinsics #1:
+[354.0083587765399, 0, 163.5;
+  0, 354.0083587765399, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[354.0083587765399, 0, 163.5;
+  0, 354.0083587765399, 122.5;
+  0, 0, 1]
+estimator uses time: 5.44548e-005 sec
+Camera #1:
+[4782.052224887888, 0, 163.5;
+  0, 4782.052224887888, 122.5;
+  0, 0, 1]
+Camera #2:
+[4943.1616650532, 0, 163.5;
+  0, 4943.1616650532, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0824747 sec
+Warping images uses time: 0.00675011 sec
+compensator uses time: 0.00230193 sec
+seam_finder uses time: 0.00782666 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0585965 sec
+Finished, total time: 0.206968 sec, runtime fps: 4.83167 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 432
+find_feature(i=0) uses time : 0.0217078 sec
+Features in image #2: 359
+find_feature(i=1) uses time : 0.0223592 sec
+Finding features uses time: 0.0224257 sec
+Pairwise matching, time: 0.016467 sec
+LeaveBiggestComponent uses time: 2.53742e-005 sec
+Initial intrinsics #1:
+[440.7686661458268, 0, 163.5;
+  0, 440.7686661458268, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[440.7686661458268, 0, 163.5;
+  0, 440.7686661458268, 122.5;
+  0, 0, 1]
+estimator uses time: 6.01568e-005 sec
+Camera #1:
+[4798.962041029064, 0, 163.5;
+  0, 4798.962041029064, 122.5;
+  0, 0, 1]
+Camera #2:
+[4887.11565026744, 0, 163.5;
+  0, 4887.11565026744, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0850392 sec
+Warping images uses time: 0.00705831 sec
+compensator uses time: 0.00218646 sec
+seam_finder uses time: 0.00743892 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0585543 sec
+Finished, total time: 0.201559 sec, runtime fps: 4.96133 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 435
+find_feature(i=0) uses time : 0.0194127 sec
+Features in image #2: 354
+find_feature(i=1) uses time : 0.0230512 sec
+Finding features uses time: 0.0231293 sec
+Pairwise matching, time: 0.0147937 sec
+LeaveBiggestComponent uses time: 2.56593e-005 sec
+Initial intrinsics #1:
+[361.8343083354721, 0, 163.5;
+  0, 361.8343083354721, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[361.8343083354721, 0, 163.5;
+  0, 361.8343083354721, 122.5;
+  0, 0, 1]
+estimator uses time: 6.04419e-005 sec
+Camera #1:
+[4648.91559597899, 0, 163.5;
+  0, 4648.91559597899, 122.5;
+  0, 0, 1]
+Camera #2:
+[4791.528454084214, 0, 163.5;
+  0, 4791.528454084214, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0925691 sec
+Warping images uses time: 0.00669451 sec
+compensator uses time: 0.00218674 sec
+seam_finder uses time: 0.00785004 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0594409 sec
+Finished, total time: 0.209206 sec, runtime fps: 4.77998 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 453
+find_feature(i=0) uses time : 0.0200359 sec
+Features in image #2: 353
+find_feature(i=1) uses time : 0.0232468 sec
+Finding features uses time: 0.0233802 sec
+Pairwise matching, time: 0.0166549 sec
+LeaveBiggestComponent uses time: 2.65146e-005 sec
+Initial intrinsics #1:
+[1480.768304745194, 0, 163.5;
+  0, 1480.768304745194, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[1480.768304745194, 0, 163.5;
+  0, 1480.768304745194, 122.5;
+  0, 0, 1]
+estimator uses time: 5.44548e-005 sec
+Camera #1:
+[4825.610017907245, 0, 163.5;
+  0, 4825.610017907245, 122.5;
+  0, 0, 1]
+Camera #2:
+[5032.632338507786, 0, 163.5;
+  0, 5032.632338507786, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0839068 sec
+Warping images uses time: 0.00699444 sec
+compensator uses time: 0.00241369 sec
+seam_finder uses time: 0.0075655 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0597229 sec
+Finished, total time: 0.203232 sec, runtime fps: 4.92049 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 439
+find_feature(i=0) uses time : 0.0215441 sec
+Features in image #2: 341
+find_feature(i=1) uses time : 0.0217024 sec
+Finding features uses time: 0.0217779 sec
+Pairwise matching, time: 0.0157006 sec
+LeaveBiggestComponent uses time: 2.53742e-005 sec
+Initial intrinsics #1:
+[398.5154347664865, 0, 163.5;
+  0, 398.5154347664865, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[398.5154347664865, 0, 163.5;
+  0, 398.5154347664865, 122.5;
+  0, 0, 1]
+estimator uses time: 5.41697e-005 sec
+Camera #1:
+[695.904083788776, 0, 163.5;
+  0, 695.904083788776, 122.5;
+  0, 0, 1]
+Camera #2:
+[717.3191672266951, 0, 163.5;
+  0, 717.3191672266951, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0074278 sec
+Warping images uses time: 0.00682367 sec
+compensator uses time: 0.00257306 sec
+seam_finder uses time: 0.00708454 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0547373 sec
+Finished, total time: 0.118482 sec, runtime fps: 8.44007 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 449
+find_feature(i=0) uses time : 0.0196853 sec
+Features in image #2: 350
+find_feature(i=1) uses time : 0.0243618 sec
+Finding features uses time: 0.0244539 sec
+Pairwise matching, time: 0.0216157 sec
+LeaveBiggestComponent uses time: 2.13828e-005 sec
+Initial intrinsics #1:
+[109.6215526028332, 0, 163.5;
+  0, 109.6215526028332, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[109.6215526028332, 0, 163.5;
+  0, 109.6215526028332, 122.5;
+  0, 0, 1]
+estimator uses time: 5.5025e-005 sec
+Camera #1:
+[3239.705807850834, 0, 163.5;
+  0, 3239.705807850834, 122.5;
+  0, 0, 1]
+Camera #2:
+[3246.840708941892, 0, 163.5;
+  0, 3246.840708941892, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0876485 sec
+Warping images uses time: 0.00743664 sec
+compensator uses time: 0.00225089 sec
+seam_finder uses time: 0.00792388 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0619943 sec
+Finished, total time: 0.21582 sec, runtime fps: 4.6335 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 447
+find_feature(i=0) uses time : 0.0185069 sec
+Features in image #2: 327
+find_feature(i=1) uses time : 0.0230965 sec
+Finding features uses time: 0.0231587 sec
+Pairwise matching, time: 0.013482 sec
+LeaveBiggestComponent uses time: 2.73699e-005 sec
+Initial intrinsics #1:
+[543.5112531071891, 0, 163.5;
+  0, 543.5112531071891, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[543.5112531071891, 0, 163.5;
+  0, 543.5112531071891, 122.5;
+  0, 0, 1]
+estimator uses time: 5.61654e-005 sec
+Camera #1:
+[3249.36776363379, 0, 163.5;
+  0, 3249.36776363379, 122.5;
+  0, 0, 1]
+Camera #2:
+[3317.878827847268, 0, 163.5;
+  0, 3317.878827847268, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0948015 sec
+Warping images uses time: 0.00697477 sec
+compensator uses time: 0.00223892 sec
+seam_finder uses time: 0.00750307 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0579786 sec
+Finished, total time: 0.208803 sec, runtime fps: 4.78919 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 434
+find_feature(i=0) uses time : 0.0213095 sec
+Features in image #2: 317
+find_feature(i=1) uses time : 0.0222905 sec
+Finding features uses time: 0.0223937 sec
+Pairwise matching, time: 0.0144989 sec
+LeaveBiggestComponent uses time: 2.67997e-005 sec
+Initial intrinsics #1:
+[165.4338137161251, 0, 163.5;
+  0, 165.4338137161251, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[165.4338137161251, 0, 163.5;
+  0, 165.4338137161251, 122.5;
+  0, 0, 1]
+estimator uses time: 6.44334e-005 sec
+Camera #1:
+[142.903139075606, 0, 163.5;
+  0, 142.903139075606, 122.5;
+  0, 0, 1]
+Camera #2:
+[161.3683049973369, 0, 163.5;
+  0, 161.3683049973369, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00169808 sec
+Warping images uses time: 0.00589166 sec
+compensator uses time: 0.00151333 sec
+seam_finder uses time: 0.00560257 sec
+Multi-band blender, number of bands: 4
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0457349 sec
+Finished, total time: 0.099663 sec, runtime fps: 10.0338 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 437
+find_feature(i=0) uses time : 0.0168228 sec
+Features in image #2: 304
+find_feature(i=1) uses time : 0.0236639 sec
+Finding features uses time: 0.0237722 sec
+Pairwise matching, time: 0.0128465 sec
+LeaveBiggestComponent uses time: 2.82252e-005 sec
+Initial intrinsics #1:
+[219.5521646405348, 0, 163.5;
+  0, 219.5521646405348, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[219.5521646405348, 0, 163.5;
+  0, 219.5521646405348, 122.5;
+  0, 0, 1]
+estimator uses time: 5.73058e-005 sec
+Camera #1:
+[565.6344996484, 0, 163.5;
+  0, 565.6344996484, 122.5;
+  0, 0, 1]
+Camera #2:
+[564.0091329546859, 0, 163.5;
+  0, 564.0091329546859, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00990734 sec
+Warping images uses time: 0.00803307 sec
+compensator uses time: 0.00214626 sec
+seam_finder uses time: 0.00708995 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0559125 sec
+Finished, total time: 0.122015 sec, runtime fps: 8.19576 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 445
+find_feature(i=0) uses time : 0.0188607 sec
+Features in image #2: 296
+find_feature(i=1) uses time : 0.0242021 sec
+Finding features uses time: 0.0245095 sec
+Pairwise matching, time: 0.0137349 sec
+LeaveBiggestComponent uses time: 3.39273e-005 sec
+Initial intrinsics #1:
+[563.7229595438341, 0, 163.5;
+  0, 563.7229595438341, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[563.7229595438341, 0, 163.5;
+  0, 563.7229595438341, 122.5;
+  0, 0, 1]
+estimator uses time: 6.12972e-005 sec
+Camera #1:
+[3470.09708811281, 0, 163.5;
+  0, 3470.09708811281, 122.5;
+  0, 0, 1]
+Camera #2:
+[3465.430784360279, 0, 163.5;
+  0, 3465.430784360279, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.107552 sec
+Warping images uses time: 0.00642709 sec
+compensator uses time: 0.00226572 sec
+seam_finder uses time: 0.00698731 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0545888 sec
+Finished, total time: 0.218654 sec, runtime fps: 4.57343 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 466
+find_feature(i=0) uses time : 0.0167966 sec
+Features in image #2: 322
+find_feature(i=1) uses time : 0.0233423 sec
+Finding features uses time: 0.0234426 sec
+Pairwise matching, time: 0.0134606 sec
+LeaveBiggestComponent uses time: 3.07912e-005 sec
+Initial intrinsics #1:
+[441.2258077305899, 0, 163.5;
+  0, 441.2258077305899, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[441.2258077305899, 0, 163.5;
+  0, 441.2258077305899, 122.5;
+  0, 0, 1]
+estimator uses time: 5.55952e-005 sec
+Camera #1:
+[282.380693216837, 0, 163.5;
+  0, 282.380693216837, 122.5;
+  0, 0, 1]
+Camera #2:
+[281.5186428360107, 0, 163.5;
+  0, 281.5186428360107, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00664234 sec
+Warping images uses time: 0.00606444 sec
+compensator uses time: 0.00197577 sec
+seam_finder uses time: 0.00638404 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0479818 sec
+Finished, total time: 0.108109 sec, runtime fps: 9.24993 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 472
+find_feature(i=0) uses time : 0.0169671 sec
+Features in image #2: 334
+find_feature(i=1) uses time : 0.0250378 sec
+Finding features uses time: 0.0251307 sec
+Pairwise matching, time: 0.0133813 sec
+LeaveBiggestComponent uses time: 2.99359e-005 sec
+Initial intrinsics #1:
+[774.3883890910814, 0, 163.5;
+  0, 774.3883890910814, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[774.3883890910814, 0, 163.5;
+  0, 774.3883890910814, 122.5;
+  0, 0, 1]
+estimator uses time: 5.67356e-005 sec
+Camera #1:
+[356.4653006662276, 0, 163.5;
+  0, 356.4653006662276, 122.5;
+  0, 0, 1]
+Camera #2:
+[356.9350477694691, 0, 163.5;
+  0, 356.9350477694691, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0153893 sec
+Warping images uses time: 0.00565816 sec
+compensator uses time: 0.00202252 sec
+seam_finder uses time: 0.00671533 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0468721 sec
+Finished, total time: 0.117345 sec, runtime fps: 8.52187 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 487
+find_feature(i=0) uses time : 0.0228915 sec
+Features in image #2: 335
+find_feature(i=1) uses time : 0.0251983 sec
+Finding features uses time: 0.0252738 sec
+Pairwise matching, time: 0.0135481 sec
+LeaveBiggestComponent uses time: 2.93657e-005 sec
+Initial intrinsics #1:
+[330.5266803142062, 0, 163.5;
+  0, 330.5266803142062, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[330.5266803142062, 0, 163.5;
+  0, 330.5266803142062, 122.5;
+  0, 0, 1]
+estimator uses time: 5.53101e-005 sec
+Camera #1:
+[608.9093932425853, 0, 163.5;
+  0, 608.9093932425853, 122.5;
+  0, 0, 1]
+Camera #2:
+[610.9243406556483, 0, 163.5;
+  0, 610.9243406556483, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0101582 sec
+Warping images uses time: 0.00606814 sec
+compensator uses time: 0.00208126 sec
+seam_finder uses time: 0.00666828 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0503353 sec
+Finished, total time: 0.11639 sec, runtime fps: 8.59182 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 483
+find_feature(i=0) uses time : 0.0219458 sec
+Features in image #2: 342
+find_feature(i=1) uses time : 0.0240553 sec
+Finding features uses time: 0.0241277 sec
+Pairwise matching, time: 0.0141183 sec
+LeaveBiggestComponent uses time: 3.07912e-005 sec
+Initial intrinsics #1:
+[394.5885847072635, 0, 163.5;
+  0, 394.5885847072635, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[394.5885847072635, 0, 163.5;
+  0, 394.5885847072635, 122.5;
+  0, 0, 1]
+estimator uses time: 5.61654e-005 sec
+Camera #1:
+[848.3267661078035, 0, 163.5;
+  0, 848.3267661078035, 122.5;
+  0, 0, 1]
+Camera #2:
+[847.7123837917657, 0, 163.5;
+  0, 847.7123837917657, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0209905 sec
+Warping images uses time: 0.00602766 sec
+compensator uses time: 0.00263065 sec
+seam_finder uses time: 0.00769808 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0515866 sec
+Finished, total time: 0.129448 sec, runtime fps: 7.72512 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 500
+find_feature(i=0) uses time : 0.018729 sec
+Features in image #2: 343
+find_feature(i=1) uses time : 0.0245907 sec
+Finding features uses time: 0.024715 sec
+Pairwise matching, time: 0.014384 sec
+LeaveBiggestComponent uses time: 2.93657e-005 sec
+Initial intrinsics #1:
+[340.807416745633, 0, 163.5;
+  0, 340.807416745633, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[340.807416745633, 0, 163.5;
+  0, 340.807416745633, 122.5;
+  0, 0, 1]
+estimator uses time: 5.70207e-005 sec
+Camera #1:
+[329.6153254054862, 0, 163.5;
+  0, 329.6153254054862, 122.5;
+  0, 0, 1]
+Camera #2:
+[332.5801804378435, 0, 163.5;
+  0, 332.5801804378435, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00162994 sec
+Warping images uses time: 0.0059789 sec
+compensator uses time: 0.00199373 sec
+seam_finder uses time: 0.00665004 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0483966 sec
+Finished, total time: 0.105974 sec, runtime fps: 9.43627 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #2: 361
+find_feature(i=1) uses time : 0.0221235 sec
+Features in image #1: 493
+find_feature(i=0) uses time : 0.0239601 sec
+Finding features uses time: 0.0240847 sec
+Pairwise matching, time: 0.0135661 sec
+LeaveBiggestComponent uses time: 2.99359e-005 sec
+Initial intrinsics #1:
+[356.2756530911225, 0, 163.5;
+  0, 356.2756530911225, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[356.2756530911225, 0, 163.5;
+  0, 356.2756530911225, 122.5;
+  0, 0, 1]
+estimator uses time: 5.58803e-005 sec
+Camera #1:
+[363.7474279934713, 0, 163.5;
+  0, 363.7474279934713, 122.5;
+  0, 0, 1]
+Camera #2:
+[368.1962020343407, 0, 163.5;
+  0, 368.1962020343407, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00171148 sec
+Warping images uses time: 0.00668625 sec
+compensator uses time: 0.00213571 sec
+seam_finder uses time: 0.00654712 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0471381 sec
+Finished, total time: 0.104028 sec, runtime fps: 9.6128 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 500
+find_feature(i=0) uses time : 0.0204821 sec
+Features in image #2: 352
+find_feature(i=1) uses time : 0.0243025 sec
+Finding features uses time: 0.024398 sec
+Pairwise matching, time: 0.0135199 sec
+LeaveBiggestComponent uses time: 3.13614e-005 sec
+Initial intrinsics #1:
+[273.5638012752074, 0, 163.5;
+  0, 273.5638012752074, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[273.5638012752074, 0, 163.5;
+  0, 273.5638012752074, 122.5;
+  0, 0, 1]
+estimator uses time: 5.67356e-005 sec
+Camera #1:
+[1285.053826167401, 0, 163.5;
+  0, 1285.053826167401, 122.5;
+  0, 0, 1]
+Camera #2:
+[1289.774280769989, 0, 163.5;
+  0, 1289.774280769989, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0383176 sec
+Warping images uses time: 0.00606985 sec
+compensator uses time: 0.00214911 sec
+seam_finder uses time: 0.00746657 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0515436 sec
+Finished, total time: 0.145813 sec, runtime fps: 6.8581 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 481
+find_feature(i=0) uses time : 0.0228277 sec
+Features in image #2: 354
+find_feature(i=1) uses time : 0.0254429 sec
+Finding features uses time: 0.0255319 sec
+Pairwise matching, time: 0.0144388 sec
+LeaveBiggestComponent uses time: 3.33571e-005 sec
+Initial intrinsics #1:
+[239.7611889045247, 0, 163.5;
+  0, 239.7611889045247, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[239.7611889045247, 0, 163.5;
+  0, 239.7611889045247, 122.5;
+  0, 0, 1]
+estimator uses time: 5.61654e-005 sec
+Camera #1:
+[283.0168231700596, 0, 163.5;
+  0, 283.0168231700596, 122.5;
+  0, 0, 1]
+Camera #2:
+[285.2848361839913, 0, 163.5;
+  0, 285.2848361839913, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00190421 sec
+Warping images uses time: 0.00644134 sec
+compensator uses time: 0.00194384 sec
+seam_finder uses time: 0.00669394 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0486877 sec
+Finished, total time: 0.107739 sec, runtime fps: 9.28173 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 490
+find_feature(i=0) uses time : 0.0193531 sec
+Features in image #2: 340
+find_feature(i=1) uses time : 0.0246435 sec
+Finding features uses time: 0.0247444 sec
+Pairwise matching, time: 0.0139367 sec
+LeaveBiggestComponent uses time: 2.79401e-005 sec
+Initial intrinsics #1:
+[243.7412020352517, 0, 163.5;
+  0, 243.7412020352517, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[243.7412020352517, 0, 163.5;
+  0, 243.7412020352517, 122.5;
+  0, 0, 1]
+estimator uses time: 5.84462e-005 sec
+Camera #1:
+[217.1131614191804, 0, 163.5;
+  0, 217.1131614191804, 122.5;
+  0, 0, 1]
+Camera #2:
+[216.0282222511501, 0, 163.5;
+  0, 216.0282222511501, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00236237 sec
+Warping images uses time: 0.00599202 sec
+compensator uses time: 0.00176279 sec
+seam_finder uses time: 0.00659045 sec
+Multi-band blender, number of bands: 4
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0461175 sec
+Finished, total time: 0.103848 sec, runtime fps: 9.6295 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 482
+find_feature(i=0) uses time : 0.0196627 sec
+Features in image #2: 359
+find_feature(i=1) uses time : 0.0239963 sec
+Finding features uses time: 0.024063 sec
+Pairwise matching, time: 0.0139781 sec
+LeaveBiggestComponent uses time: 2.59444e-005 sec
+Initial intrinsics #1:
+[500.8712007172254, 0, 163.5;
+  0, 500.8712007172254, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[500.8712007172254, 0, 163.5;
+  0, 500.8712007172254, 122.5;
+  0, 0, 1]
+estimator uses time: 5.55952e-005 sec
+Camera #1:
+[254.6564878032858, 0, 163.5;
+  0, 254.6564878032858, 122.5;
+  0, 0, 1]
+Camera #2:
+[254.026906909205, 0, 163.5;
+  0, 254.026906909205, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00506942 sec
+Warping images uses time: 0.00657819 sec
+compensator uses time: 0.0018603 sec
+seam_finder uses time: 0.00609665 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.046875 sec
+Finished, total time: 0.106714 sec, runtime fps: 9.37085 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 488
+find_feature(i=0) uses time : 0.0176331 sec
+Features in image #2: 366
+find_feature(i=1) uses time : 0.0252066 sec
+Finding features uses time: 0.0252892 sec
+Pairwise matching, time: 0.0139726 sec
+LeaveBiggestComponent uses time: 2.67997e-005 sec
+Initial intrinsics #1:
+[562.6510026877631, 0, 163.5;
+  0, 562.6510026877631, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[562.6510026877631, 0, 163.5;
+  0, 562.6510026877631, 122.5;
+  0, 0, 1]
+estimator uses time: 5.53101e-005 sec
+Camera #1:
+[226.8140797820056, 0, 163.5;
+  0, 226.8140797820056, 122.5;
+  0, 0, 1]
+Camera #2:
+[227.2428217798048, 0, 163.5;
+  0, 227.2428217798048, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00370349 sec
+Warping images uses time: 0.00588881 sec
+compensator uses time: 0.00228853 sec
+seam_finder uses time: 0.00618788 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0477742 sec
+Finished, total time: 0.107464 sec, runtime fps: 9.30544 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 493
+find_feature(i=0) uses time : 0.0168969 sec
+Features in image #2: 341
+find_feature(i=1) uses time : 0.0241768 sec
+Finding features uses time: 0.0242612 sec
+Pairwise matching, time: 0.0138475 sec
+LeaveBiggestComponent uses time: 2.67997e-005 sec
+Initial intrinsics #1:
+[514.6850740780533, 0, 163.5;
+  0, 514.6850740780533, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[514.6850740780533, 0, 163.5;
+  0, 514.6850740780533, 122.5;
+  0, 0, 1]
+estimator uses time: 8.35353e-005 sec
+Camera #1:
+[243.2244822648571, 0, 163.5;
+  0, 243.2244822648571, 122.5;
+  0, 0, 1]
+Camera #2:
+[243.3770157210142, 0, 163.5;
+  0, 243.3770157210142, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00210748 sec
+Warping images uses time: 0.00595809 sec
+compensator uses time: 0.00187341 sec
+seam_finder uses time: 0.00666116 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0472371 sec
+Finished, total time: 0.104106 sec, runtime fps: 9.60556 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 492
+find_feature(i=0) uses time : 0.0191031 sec
+Features in image #2: 358
+find_feature(i=1) uses time : 0.025592 sec
+Finding features uses time: 0.0256553 sec
+Pairwise matching, time: 0.0138318 sec
+LeaveBiggestComponent uses time: 2.82252e-005 sec
+Initial intrinsics #1:
+[205.9559012763851, 0, 163.5;
+  0, 205.9559012763851, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[205.9559012763851, 0, 163.5;
+  0, 205.9559012763851, 122.5;
+  0, 0, 1]
+estimator uses time: 5.55952e-005 sec
+Camera #1:
+[256.5616106598567, 0, 163.5;
+  0, 256.5616106598567, 122.5;
+  0, 0, 1]
+Camera #2:
+[258.8704121367667, 0, 163.5;
+  0, 258.8704121367667, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00190763 sec
+Warping images uses time: 0.0065072 sec
+compensator uses time: 0.00189252 sec
+seam_finder uses time: 0.00628197 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0479219 sec
+Finished, total time: 0.10611 sec, runtime fps: 9.42418 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 496
+find_feature(i=0) uses time : 0.0174138 sec
+Features in image #2: 356
+find_feature(i=1) uses time : 0.0242746 sec
+Finding features uses time: 0.0243658 sec
+Pairwise matching, time: 0.0138138 sec
+LeaveBiggestComponent uses time: 2.87954e-005 sec
+Initial intrinsics #1:
+[313.0779802685784, 0, 163.5;
+  0, 313.0779802685784, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[313.0779802685784, 0, 163.5;
+  0, 313.0779802685784, 122.5;
+  0, 0, 1]
+estimator uses time: 5.53101e-005 sec
+Camera #1:
+[352.5778839854131, 0, 163.5;
+  0, 352.5778839854131, 122.5;
+  0, 0, 1]
+Camera #2:
+[355.4433893082365, 0, 163.5;
+  0, 355.4433893082365, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00171575 sec
+Warping images uses time: 0.00581497 sec
+compensator uses time: 0.00258275 sec
+seam_finder uses time: 0.00711647 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0480835 sec
+Finished, total time: 0.105631 sec, runtime fps: 9.46698 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 490
+find_feature(i=0) uses time : 0.0191709 sec
+Features in image #2: 357
+find_feature(i=1) uses time : 0.0258406 sec
+Finding features uses time: 0.0259607 sec
+Pairwise matching, time: 0.0135783 sec
+LeaveBiggestComponent uses time: 2.85103e-005 sec
+Initial intrinsics #1:
+[289.0106744287661, 0, 163.5;
+  0, 289.0106744287661, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[289.0106744287661, 0, 163.5;
+  0, 289.0106744287661, 122.5;
+  0, 0, 1]
+estimator uses time: 5.41697e-005 sec
+Camera #1:
+[431.0642457135506, 0, 163.5;
+  0, 431.0642457135506, 122.5;
+  0, 0, 1]
+Camera #2:
+[436.553446454911, 0, 163.5;
+  0, 436.553446454911, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00589679 sec
+Warping images uses time: 0.00586743 sec
+compensator uses time: 0.00205474 sec
+seam_finder uses time: 0.0069799 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0483678 sec
+Finished, total time: 0.110988 sec, runtime fps: 9.01001 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 487
+find_feature(i=0) uses time : 0.0164827 sec
+Features in image #2: 351
+find_feature(i=1) uses time : 0.02415 sec
+Finding features uses time: 0.0242327 sec
+Pairwise matching, time: 0.0140838 sec
+LeaveBiggestComponent uses time: 2.70848e-005 sec
+Initial intrinsics #1:
+[709.1399263945508, 0, 163.5;
+  0, 709.1399263945508, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[709.1399263945508, 0, 163.5;
+  0, 709.1399263945508, 122.5;
+  0, 0, 1]
+estimator uses time: 5.5025e-005 sec
+Camera #1:
+[305.1694380942486, 0, 163.5;
+  0, 305.1694380942486, 122.5;
+  0, 0, 1]
+Camera #2:
+[307.691213361768, 0, 163.5;
+  0, 307.691213361768, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0117591 sec
+Warping images uses time: 0.00625488 sec
+compensator uses time: 0.00195296 sec
+seam_finder uses time: 0.00703835 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0480037 sec
+Finished, total time: 0.115515 sec, runtime fps: 8.65692 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 486
+find_feature(i=0) uses time : 0.0193286 sec
+Features in image #2: 369
+find_feature(i=1) uses time : 0.0268396 sec
+Finding features uses time: 0.0269203 sec
+Pairwise matching, time: 0.0141682 sec
+LeaveBiggestComponent uses time: 2.73699e-005 sec
+Initial intrinsics #1:
+[234.3106176126901, 0, 163.5;
+  0, 234.3106176126901, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[234.3106176126901, 0, 163.5;
+  0, 234.3106176126901, 122.5;
+  0, 0, 1]
+estimator uses time: 5.55952e-005 sec
+Camera #1:
+[229.9812287818664, 0, 163.5;
+  0, 229.9812287818664, 122.5;
+  0, 0, 1]
+Camera #2:
+[230.1640773922667, 0, 163.5;
+  0, 230.1640773922667, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00112958 sec
+Warping images uses time: 0.00586258 sec
+compensator uses time: 0.00179615 sec
+seam_finder uses time: 0.00580271 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0481631 sec
+Finished, total time: 0.105975 sec, runtime fps: 9.43617 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 485
+find_feature(i=0) uses time : 0.0175418 sec
+Features in image #2: 350
+find_feature(i=1) uses time : 0.0238304 sec
+Finding features uses time: 0.0239495 sec
+Pairwise matching, time: 0.0136607 sec
+LeaveBiggestComponent uses time: 3.62081e-005 sec
+Initial intrinsics #1:
+[357.3347298833709, 0, 163.5;
+  0, 357.3347298833709, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[357.3347298833709, 0, 163.5;
+  0, 357.3347298833709, 122.5;
+  0, 0, 1]
+estimator uses time: 5.53101e-005 sec
+Camera #1:
+[427.3322552945398, 0, 163.5;
+  0, 427.3322552945398, 122.5;
+  0, 0, 1]
+Camera #2:
+[429.7244519797039, 0, 163.5;
+  0, 429.7244519797039, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00228482 sec
+Warping images uses time: 0.00576479 sec
+compensator uses time: 0.00194982 sec
+seam_finder uses time: 0.00733486 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0483775 sec
+Finished, total time: 0.105593 sec, runtime fps: 9.47031 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 489
+find_feature(i=0) uses time : 0.0224436 sec
+Features in image #2: 351
+find_feature(i=1) uses time : 0.0245217 sec
+Finding features uses time: 0.0245922 sec
+Pairwise matching, time: 0.0136727 sec
+LeaveBiggestComponent uses time: 3.39273e-005 sec
+Initial intrinsics #1:
+[264.4781335200253, 0, 163.5;
+  0, 264.4781335200253, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[264.4781335200253, 0, 163.5;
+  0, 264.4781335200253, 122.5;
+  0, 0, 1]
+estimator uses time: 5.64505e-005 sec
+Camera #1:
+[578.3629152567592, 0, 163.5;
+  0, 578.3629152567592, 122.5;
+  0, 0, 1]
+Camera #2:
+[579.5690632763332, 0, 163.5;
+  0, 579.5690632763332, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.0103755 sec
+Warping images uses time: 0.00578646 sec
+compensator uses time: 0.00207669 sec
+seam_finder uses time: 0.00680713 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0499333 sec
+Finished, total time: 0.115548 sec, runtime fps: 8.65444 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #2: 355
+Features in image #1: 493
+find_feature(i=1) uses time : 0.023151 sec
+find_feature(i=0) uses time : 0.0231895 sec
+Finding features uses time: 0.0233705 sec
+Pairwise matching, time: 0.0142563 sec
+LeaveBiggestComponent uses time: 2.42338e-005 sec
+Initial intrinsics #1:
+[269.7374900514093, 0, 163.5;
+  0, 269.7374900514093, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[269.7374900514093, 0, 163.5;
+  0, 269.7374900514093, 122.5;
+  0, 0, 1]
+estimator uses time: 5.35994e-005 sec
+Camera #1:
+[267.6424250311581, 0, 163.5;
+  0, 267.6424250311581, 122.5;
+  0, 0, 1]
+Camera #2:
+[267.0505636704202, 0, 163.5;
+  0, 267.0505636704202, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.000913186 sec
+Warping images uses time: 0.00574626 sec
+compensator uses time: 0.00186429 sec
+seam_finder uses time: 0.00596664 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0466478 sec
+Finished, total time: 0.100825 sec, runtime fps: 9.91819 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 490
+find_feature(i=0) uses time : 0.0182994 sec
+Features in image #2: 362
+find_feature(i=1) uses time : 0.0254489 sec
+Finding features uses time: 0.0255225 sec
+Pairwise matching, time: 0.0138532 sec
+LeaveBiggestComponent uses time: 3.10763e-005 sec
+Initial intrinsics #1:
+[756.9221081775872, 0, 163.5;
+  0, 756.9221081775872, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[756.9221081775872, 0, 163.5;
+  0, 756.9221081775872, 122.5;
+  0, 0, 1]
+estimator uses time: 5.41697e-005 sec
+Camera #1:
+[3197.560642453729, 0, 163.5;
+  0, 3197.560642453729, 122.5;
+  0, 0, 1]
+Camera #2:
+[3198.160705315013, 0, 163.5;
+  0, 3198.160705315013, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.106749 sec
+Warping images uses time: 0.00621697 sec
+compensator uses time: 0.00221896 sec
+seam_finder uses time: 0.00699444 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0511886 sec
+Finished, total time: 0.214935 sec, runtime fps: 4.65258 fps
+Finding features...
+find_feature(i=0)
+find_feature(i=1)
+Features in image #1: 490
+find_feature(i=0) uses time : 0.0201349 sec
+Features in image #2: 357
+find_feature(i=1) uses time : 0.0265255 sec
+Finding features uses time: 0.0266426 sec
+Pairwise matching, time: 0.0155532 sec
+LeaveBiggestComponent uses time: 3.56379e-005 sec
+Initial intrinsics #1:
+[374.877462054139, 0, 163.5;
+  0, 374.877462054139, 122.5;
+  0, 0, 1]
+Initial intrinsics #2:
+[374.877462054139, 0, 163.5;
+  0, 374.877462054139, 122.5;
+  0, 0, 1]
+estimator uses time: 5.55952e-005 sec
+Camera #1:
+[260.9526442180191, 0, 163.5;
+  0, 260.9526442180191, 122.5;
+  0, 0, 1]
+Camera #2:
+[262.9786872961686, 0, 163.5;
+  0, 262.9786872961686, 122.5;
+  0, 0, 1]
+adjuster uses time: 0.00132659 sec
+Warping images uses time: 0.0063521 sec
+compensator uses time: 0.00199487 sec
+seam_finder uses time: 0.00743008 sec
+Multi-band blender, number of bands: 5
+Compositing image #1
+Compositing image #2
+Compositing, time: 0.0525223 sec
+Finished, total time: 0.114197 sec, runtime fps: 8.75679 fps
+
+ Record done 41 frames use time 8.779seconds! average fps is 4.67024 fps

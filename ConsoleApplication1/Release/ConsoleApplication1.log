@@ -1,0 +1,13 @@
+﻿Build started 2015/11/30 15:12:56.
+     1>Project "C:\develop\workspace\ConsoleApplication1-opencv2.4\ConsoleApplication1\ConsoleApplication1.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\develop\workspace\ConsoleApplication1-opencv2.4\Release\ConsoleApplication1.exe" /INCREMENTAL:NO /NOLOGO opencv_ml2411.lib opencv_calib3d2411.lib opencv_contrib2411.lib opencv_core2411.lib opencv_features2d2411.lib opencv_flann2411.lib opencv_gpu2411.lib opencv_highgui2411.lib opencv_imgproc2411.lib opencv_legacy2411.lib opencv_objdetect2411.lib opencv_ts2411.lib opencv_video2411.lib opencv_nonfree2411.lib opencv_ocl2411.lib opencv_photo2411.lib opencv_stitching2411.lib opencv_superres2411.lib opencv_videostab2411.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\develop\workspace\ConsoleApplication1-opencv2.4\Release\ConsoleApplication1.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\develop\workspace\ConsoleApplication1-opencv2.4\Release\ConsoleApplication1.lib" /MACHINE:X86 /SAFESEH Release\ConsoleApplication1.obj
+         Release\stdafx.obj
+         Release\Stitching.obj
+         Release\stitching_detailed.obj
+     1>Release\ConsoleApplication1.obj : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'X86'
+     1>Done Building Project "C:\develop\workspace\ConsoleApplication1-opencv2.4\ConsoleApplication1\ConsoleApplication1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.13
